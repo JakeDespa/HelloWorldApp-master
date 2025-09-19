@@ -33,7 +33,7 @@ export default function ScrollableScreen() {
         />
 
         <ThemedText style={[styles.paragraph, styles.centered, styles.lastText]}>
-          3 of my favourite monkeys
+          3 of my favourite images
         </ThemedText>
         
         <View style={styles.buttonSpacer} />
